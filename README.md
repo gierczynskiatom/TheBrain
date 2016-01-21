@@ -1,1 +1,1 @@
-# TheBrain
+# Full featured mobile-friendly spaced-repetition flashcard app oryginally created by @lgandecki (MeteorJS + ReactJS)
