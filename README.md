@@ -1,1 +1,3 @@
-# Full featured mobile-friendly spaced-repetition flashcard app oryginally created by @lgandecki (MeteorJS + ReactJS)
+# TheBrain (MeteorJS + ReactJS)
+
+Fully featured mobile-friendly spaced-repetition flashcard app (originally created by @lgandecki using MeteorJS and Blaze)
