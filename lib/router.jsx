@@ -6,15 +6,6 @@ Routes = [
         action() {
             ReactLayout.render(Home);
         }
-    },
-
-    {
-        url: '/',
-        title: 'TheBrain',
-        name: 'home',
-        action() {
-            ReactLayout.render(Home);
-        }
     }
 ];
 

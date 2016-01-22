@@ -1,17 +1,21 @@
 Nav = React.createClass({
 
-render() {
-    return (
-        <div>
-        <nav className="navbar navbar-inverse navbar-fixed-top">
-            <div className="container">
-                <div className="navbar-header">
-                </div>
-                <div id="navbar" className="collapse navbar-collapse">
-                </div>
+    render() {
+        return (
+            <div>
+                <nav className="navbar navbar-inverse">
+                    <div className="container-fluid">
+                        <div className="navbar-default">
+                            <ul className="nav navbar-nav navbar-left">
+                                <li><a href="#">Sign up!</a></li>
+                                <li><a href="#">Flashcards</a></li>
+                                <li><a href="#">Courses</a></li>
+                                <li><a href="#">KhanAcademy Playlists</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
             </div>
-        </nav>
-        </div>
-    );
-}
+        )}
 });
+

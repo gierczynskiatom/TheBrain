@@ -4,6 +4,7 @@ Home = React.createClass({
         return (
             <div>
                  <Nav/>
+                 <Footer/>
             </div>
         );
     }
