@@ -16,14 +16,22 @@ body {
 }
 
 .navbar-custom .navbar-brand {
-    color:#eeeeee;
+    color: #eee;
 }
 
 .navbar {
     background-color: rgb(60,171,218);
     border: none;
     color: #fff;
+    max-height: 40px;
 }
+
+.logo-navbar {
+    max-height: 50px;
+    margin-top: 5px;
+    padding: 0 60px 5px 10px;
+}
+
 
 
 
@@ -1050,10 +1058,10 @@ li.active>a {
 }
 
 #myBrand {
-    background-size: 44px 44px;
+    background-size: 10px 10px;
     float: left;
-    padding-right: 10px;
-    line-height: 42px;
+    padding-right: 40px;
+    line-height: 10px;
     color: rgb(60,171,218);
 }
 

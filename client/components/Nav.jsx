@@ -7,7 +7,7 @@ Nav = React.createClass({
                     <div className="container-fluid">
                         <div className="navbar-default">
                             <ul className="nav navbar-nav navbar-left">
-                                <li><a href="#"><img id="myBrand" src="img/logo@2x.png"></img></a></li>
+                                <li><img  className="logo-navbar" src="img/logo@2x.png"></img></li>
                                 <li><a href="#">Sign up!</a></li>
                                 <li className="dropdown">
                                     <a className="dropdown-toggle" data-toggle="dropdown" href="#">Flashcards<span className="caret"></span></a>
