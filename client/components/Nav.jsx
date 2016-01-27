@@ -14,7 +14,11 @@ Nav = React.createClass({
                                     <ul className="dropdown-menu"><li><a href="#">Look for Flashcards</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="#">Courses</a></li>
+                                <li className="dropdown">
+                                <a className="dropdown-toggle" data-toggle="dropdown" href="#">Courses<span className="caret"></span></a>
+                                <ul className="dropdown-menu"><li><a href="#">Find available courses</a></li>
+                                </ul>
+                            </li>
                                 <li><a href="#">KhanAcademy Playlists</a></li>
                             </ul>
                         </div>
