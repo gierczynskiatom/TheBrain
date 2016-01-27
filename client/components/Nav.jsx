@@ -15,7 +15,7 @@ Nav = React.createClass({
                                     </ul>
                                 </li>
                                 <li className="dropdown">
-                                <a className="dropdown-toggle" data-toggle="dropdown" href="#">Courses<span className="caret"></span></a>
+                                <a className="dropdown-toggle " data-toggle="dropdown"  href="#">Courses<span className="caret"></span></a>
                                 <ul className="dropdown-menu"><li><a href="#">Find available courses</a></li>
                                 </ul>
                             </li>

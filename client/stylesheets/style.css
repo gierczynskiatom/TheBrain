@@ -32,9 +32,13 @@ body {
     padding: 0 60px 5px 10px;
 }
 
+.dropdown-menu {
+    border: solid 2px rgb(60,171,218);
+}
 
-
-
+.dropdown-toggle:active, .open .dropdown-toggle {
+    background: rgb(60,171,218) !important;
+}
 
 .flashcard {
     position: relative;
